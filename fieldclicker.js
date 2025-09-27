@@ -2,8 +2,9 @@
 // @name         PokéFarm Auto Feed + Next
 // @namespace    https://github.com/NoahMach/PokeFarm-Continuous-Field-Clicker
 // @version      2.0
-// @description  Automatically clicks "Feed All Pokémon" and then "Next >" on PokéFarm fields with instant reaction, starting 2 seconds after page load.
-// @author       NoahMach
+// @description  Automatically clicks "Feed All Pokémon" and then "Next >" on PokéFarm fields
+// @author       Noah Machemer
+// @homepage     https://github.com/NoahMach/PokeFarm-Continuous-Field-Clicker
 // @match        https://pokefarm.com/fields/*
 // @grant        none
 // ==/UserScript==
