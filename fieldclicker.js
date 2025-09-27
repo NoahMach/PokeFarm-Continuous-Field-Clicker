@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.0
 // @description  Wait 2 seconds after page load, then instantly click "Feed All Pokémon" and "Next >" on PokéFarm fields
-// @author       You
+// @author       NoahMach
 // @match        https://pokefarm.com/fields/*
 // @grant        none
 // ==/UserScript==
