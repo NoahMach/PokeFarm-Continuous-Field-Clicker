@@ -12,4 +12,4 @@ Install this script via Tampermonkey by going to Utilities > Import from URL. Pa
 Always Active Window (*keeps the clicking running even if the window is not currently focused*)
 [Chrome Web Store](https://chromewebstore.google.com/detail/always-active-window-alwa/ehllkhjndgnlokhomdlhgbineffifcbj) [Firefox Addons](https://addons.mozilla.org/en-US/firefox/addon/always-visible/)
 
-* *Use the Chrome Web Store link for Chrome, Microsoft Edge, Brave, Opera, Vivaldi, and other Chromium-based browsers* *
+(Use the Chrome Web Store link for Chrome, Microsoft Edge, Brave, Opera, Vivaldi, and other Chromium-based browsers)
